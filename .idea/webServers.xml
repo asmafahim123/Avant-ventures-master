@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c9d9e3d4-4cf0-4d52-a807-b2ac93be9836" name="avant-ventures.com" url="http://avant-ventures.com">
+        <fileTransfer host="avant-ventures.com" port="21" rootFolder="/avant-ventures.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
